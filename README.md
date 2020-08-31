@@ -89,12 +89,8 @@ Here are some ideas to get you started:
 <!--END_SECTION:activity-->
 
 
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="dertrockx's Github Stats" src="https://github-readme-stats-pi-cyan.vercel.app/api?username=dertrockx&show_icons=true&hide_border=true" />
-
-</details>
+### :zap: Github Stats
+<img align="left" alt="dertrockx's Github Stats" src="https://github-readme-stats-pi-cyan.vercel.app/api?username=dertrockx&show_icons=true&hide_border=true" />
 
 
 [website]: https://iisalazar.me
